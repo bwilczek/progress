@@ -24,7 +24,7 @@ jobs:
         run: yarn install
 
       - name: Build the application
-        run: yarn build
+        run: PUBLIC_URL=https://bwilczek.github.io/progress/ yarn build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
