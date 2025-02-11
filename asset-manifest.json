@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://bwilczek.github.io/progress/static/css/main.964fdded.css",
-    "main.js": "https://bwilczek.github.io/progress/static/js/main.ee2e55eb.js",
+    "main.js": "https://bwilczek.github.io/progress/static/js/main.5d9feefb.js",
     "index.html": "https://bwilczek.github.io/progress/index.html",
     "main.964fdded.css.map": "https://bwilczek.github.io/progress/static/css/main.964fdded.css.map",
-    "main.ee2e55eb.js.map": "https://bwilczek.github.io/progress/static/js/main.ee2e55eb.js.map"
+    "main.5d9feefb.js.map": "https://bwilczek.github.io/progress/static/js/main.5d9feefb.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.ee2e55eb.js"
+    "static/js/main.5d9feefb.js"
   ]
 }
